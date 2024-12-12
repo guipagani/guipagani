@@ -8,9 +8,12 @@
 </h1>
 
 <div align="center">
-  <a href="https://www.instagram.com/_gpagani_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilhermemoraespagani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.instagram.com/_gpagani_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FF4500?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/guilhermemoraespagani/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%23003A6D?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
 </div>
 
 <h2> Programming Languages ​​who I've learned and continue to study.</h2>
