@@ -18,10 +18,9 @@
 
 <!-- Stats -->
 <div align="center" style="margin-top: 20px;">
-  <img width="100%" height="190em" src="https://github-readme-stats.vercel.app/api?username=guipagani&show_icons=true&count_private=true&title_color=477AF1&icon_color=477AF1&text_color=ffffff&bg_color=070504" />
+  <img width="45%" height="190em" src="https://github-readme-stats.vercel.app/api?username=guipagani&show_icons=true&count_private=true&title_color=477AF1&icon_color=477AF1&text_color=ffffff&bg_color=070504" />
   <img width="50%" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipagani&layout=compact&langs_count=7&title_color=477AF1&text_color=ffffff&bg_color=070504" alt="Most used languages" />
 </div>
-
 
 
 <h2> Programming Languages ​​who I've learned and continue to study.</h2>
