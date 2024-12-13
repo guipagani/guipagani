@@ -9,12 +9,20 @@
 
 <div align="center">
   <a href="https://www.instagram.com/_gpagani_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FF4500?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FF4500?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/guilhermemoraespagani/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%23003A6D?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%23003A6D?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+<!-- Stats -->
+<div align="center" style="margin-top: 20px;">
+  <img width="100%" height="190em" src="https://github-readme-stats.vercel.app/api?username=guipagani&show_icons=true&count_private=true&title_color=477AF1&icon_color=477AF1&text_color=ffffff&bg_color=070504" />
+  <img width="50%" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipagani&layout=compact&langs_count=7&title_color=477AF1&text_color=ffffff&bg_color=070504" alt="Most used languages" />
+</div>
+
+
 
 <h2> Programming Languages ​​who I've learned and continue to study.</h2>
 
