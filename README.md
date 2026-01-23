@@ -1,42 +1,35 @@
 
-<div align="center">
-  
-  ![HeyCatGIF](https://github.com/user-attachments/assets/79d2ec01-80c3-467b-b945-d3f0c900ef53)
-</div>
 <h1 align="center">
-  Hey there, I am Guilherme Moraes Pagani, a Computer Engineering Student ! 
+  Guilherme Moraes Pagani
 </h1>
 
-<div align="center">
-  <a href="https://www.instagram.com/_gpagani_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FF4500?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/guilhermemoraespagani/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%23003A6D?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+---
 
-<!-- Stats -->
-<div align="center" style="margin-top: 20px;">
-  <img width="45%" height="190em" src="https://github-readme-stats.vercel.app/api?username=guipagani&show_icons=true&count_private=true&title_color=477AF1&icon_color=477AF1&text_color=ffffff&bg_color=070504" />
-  <img width="50%" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipagani&layout=compact&langs_count=7&title_color=477AF1&text_color=ffffff&bg_color=070504" alt="Most used languages" />
-</div>
+<h3 align="center">
+ < Data Science | Data Analysis | Machine Learning & AI | Quantum Computing >
+</h3>
+   
+---
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilhermemoraespagani/">LINKEDIN</a> | 
+  <a href="mailto:guilhermemoraespagani@gmail.com">EMAIL</a> 
+</p>
 
-<h2> Programming Languages ​​who I've learned and continue to study.</h2>
+---
 
-<div style="display: inline_block">
-  
-- <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-- <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
+## Overview 
 
-<h2>Programming languages ​​I'm interested in learning.</h2>
+Computer Engineering student and aspiring Data Scientist, focused on data analysis, predictive modeling.
+I have a strong interest in Machine Learning and Artifical Inteligence, exploring how this concepts can be combined to solve complex problems.
 
-<div style="display: inline_block">
+Currently deepening my knowledge in AI and ML,  with hands-on projects spanning analytics and predictive modeling.
+## Skills
+| Domain | Stack |
+| :--- | :--- |
+| **Data Science & ML & AI** |<p align="left"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> </p> |
+| **Languages** | <p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>| 
+| **Infrastructure & Cloud** | <p align="left"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle_OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> </p>
+| **Quantum & AI** |<p align="left"> <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/> </p>|
 
-- <img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-- <img align="center" alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-- <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  
-</div>
+---
