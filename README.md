@@ -15,8 +15,8 @@
   <a href="https://www.linkedin.com/in/guilhermemoraespagani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
   </a>
-  <a href="guilhermemoraespagani@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:guilhermemoraespagani@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
